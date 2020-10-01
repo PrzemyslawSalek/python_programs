@@ -1,3 +1,10 @@
+#Zadanie 1
+#Napisz program, który symuluje odbijanie się kuli od
+#krawędzi na stole bilardowym (krawędzie obiektu box). Prędkość
+#startowa losowa (kierunek, wartość). Zakładamy, że uderzenia o
+#bandy, ani tarcie nie powodują utraty energii (kąt padania równy
+#kątowi odbicia, wartość prędkości bez zmian).
+
 from vpython import *
 import random
 

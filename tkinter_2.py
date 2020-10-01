@@ -1,3 +1,8 @@
+#Zadanie 6
+#Napisz program, który pozwala na
+#otworzenie pliku tekstowego w okienku, jego
+#modyfikację i zapisanie pod nową nazwą.
+
 from tkinter import *
 
 root=Tk()

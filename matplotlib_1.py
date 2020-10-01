@@ -1,3 +1,9 @@
+#Zadanie 1
+#Napisz skrypt, który rysuje funkcje sinus
+#(linia ciągła z zaznaczonymi punktami) i cosinus
+#(wykres punktowy) w zakresie -2pi,2pi. Dodaj
+#opisy osi, tytuł, legendę
+
 import matplotlib.pyplot as plt
 import numpy as np
 

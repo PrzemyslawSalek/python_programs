@@ -1,3 +1,12 @@
+#Zadanie 5
+#Wygeneruj tablicę 10x10 liczb losowych
+#całkowitych z zakresu [0,6], a następnie
+#wydrukuj:
+#• listę elementów unikalnych (tzn. jeśli dany
+#element w tablicy wystąpił kilkukrotnie, w tej
+#liście pojawia się tylko raz),
+#• liczbę ich wystąpień.
+
 import numpy as np
 
 tab = np.random.randint(7, size=(10, 10))

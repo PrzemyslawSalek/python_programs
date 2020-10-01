@@ -1,3 +1,37 @@
+#Zadanie 1
+#Napisz program składający się z dwóch
+#button’ów: ‚+’ i ‚-’. Po wciśnięciu +/- program
+#zwiększa/zmniejsza wartość zmiennej ‚licznik’
+#(jej wartość początkowa to 0) o wartość
+#zmiennej ‚krok’ (wartość początkowa to 1).
+#Wartości zmiennych ‚licznik’ i ‚krok’
+#powinny być wyświetlane w oknie głównym w
+#postaci label'ów.
+
+#Zadanie 2
+#Zmodyfikuj zadanie 1. Dodaj widget 'Entry',
+#w którym wpisuje się początkową wartość
+#zmiennej ‚licznik’. Przypisanie nowej wartości
+#odbywa się przez kliknięcie dodatkowego
+#button’u.
+
+#Zadanie 3
+#Zmodyfikuj zadanie 2. Dodaj trzy
+#radiobutton’y, które zmieniają wartości zmiennej
+#‚krok’ na 1, 3 lub 10.
+
+#Zadanie 4
+#Zmodyfikuj zadanie 3. Dodaj kolory tła do
+#radiobutton’ów (red, green, blue). Kolor
+#button’ów ‚+’ i ‚-’ powinien być zgodny z tłem
+#wybranego radiobutton’a.
+
+#Zadanie 5
+#Zmodyfikuj zadanie 4. Po przekroczeniu
+#zakresu (-20,20) przez zmienną ‚licznik’ powinno
+#wyświetlić się okno z komunikatem:
+#"Przekroczono zakres".
+
 import tkinter.messagebox
 from tkinter import *
 

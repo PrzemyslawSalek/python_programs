@@ -1,3 +1,9 @@
+#Zadanie 3
+#Wygeneruj tablicę 10x10 liczb losowych
+#całkowitych (funkcja numpy.random.randint) z
+#zakresu [0,100], a następnie wyzeruj te
+#elementy, które są: <25 lub >75.
+
 import numpy as np
 
 tab = np.random.randint(101, size=(10, 10))

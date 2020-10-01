@@ -1,3 +1,8 @@
+#Zadanie 4
+#Wygeneruj tablicę 10x10 liczb losowych
+#całkowitych z zakresu [0,100], a następnie
+#wyzeruj elementy nieparzyste.
+
 import numpy as np
 
 tab = np.random.randint(101, size=(10, 10))

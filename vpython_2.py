@@ -1,3 +1,9 @@
+#Zadanie 2
+#Napisz program (rozwinięcie zadania 1), który symuluje
+#odbijanie się kuli od ścian pudełka (kula jest wewnątrz pudełka).
+#Ściany pudełka powinny być częściowo przezroczyste. Prędkość
+#startowa losowa (kierunek, wartość).
+
 from vpython import *
 
 scene.center = vector(-4,-3,0)

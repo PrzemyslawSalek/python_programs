@@ -1,3 +1,11 @@
+#Zadanie 7
+#Napisz program, który zawiera obiekt
+#Canvas. Po każdym kliknięciu w obszarze myszką
+#powinna pojawić się nowa kropka w miejscu
+#kliknięcia.
+#Po naciśnięciu klawisza ‚d’, obszar Canvas
+#powinien zostać wyczyszczony
+
 from tkinter import *
 
 def paint(event):

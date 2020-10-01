@@ -1,3 +1,8 @@
+#Zadanie 4
+#Utwórz dwie kule, z których jedna znajduje się w środku
+#układu współrzędnych, a druga w pewnej odległości. Zasymuluj
+#ruch drugiej kuli po okręgu.
+
 from vpython import *
 
 ball = sphere(pos=vector(0,0,0), radius=0.3, color=color.white)

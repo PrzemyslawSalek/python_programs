@@ -1,3 +1,8 @@
+#Zadanie 3
+#Dla pliku tekstowego sporządzić statystykę
+#występowania liter. Przedstawić wynik na
+#wykresie słupkowym.
+
 import re
 import matplotlib.pyplot as plt
 

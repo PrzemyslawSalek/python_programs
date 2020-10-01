@@ -1,3 +1,9 @@
+#Zadanie 1
+#Napisz program, który wykorzystuje
+#widgety Canvas i Scale. Na Canvas powinno być
+#narysowane koło, a dzięki Scale można zmieniać
+#jego rozmiar (promień).
+
 from tkinter import *
 
 x1, y1, x2, y2 = 350, 100, 250, 200

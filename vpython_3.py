@@ -1,3 +1,9 @@
+#Zadanie 3
+#Utwórz napis przestrzenny 'Python'. Następnie napisz
+#symulację, w której kamera z pewnej odległości zbliża się do
+#napisu, okrąża go po półokręgu (180 stopni) i oddala się na
+#początkową odległość.
+
 from vpython import *
 
 scene.range = 7

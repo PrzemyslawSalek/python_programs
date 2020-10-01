@@ -1,3 +1,10 @@
+#Zadanie 2
+#Wygeneruj tablicę 10x10 liczb losowych
+#całkowitych z zakresu [0,6], a następnie narysuj
+#wykres słupkowy, gdzie:
+#• lista elementów unikalnych – oś X,
+#• liczbę ich wystąpień – oś Y.
+
 import numpy as np
 import matplotlib.pyplot as plt
 
